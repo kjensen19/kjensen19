@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kyle
-- 👀 I’m interested in learning how to work on and construct larger projects, solve interesting puzzles, find unexpected things
-- 🌱 I’m currently learning Python mostly, taking suggestions for what comes next
+- 👀 I’m interested in solving interesting puzzles, and finding new and unexpected ways to do things.
+- 🌱 I’m currently working on fullstack projects centered around Javascript
 - 💞️ I’m looking to collaborate on interesting things?
 - 📫 How to reach me kjensen19@gmail.com
 
