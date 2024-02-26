@@ -1,5 +1,4 @@
 - Hi, I’m Kyle. 
-- I’m interested in solving interesting puzzles, and finding new and unexpected ways to do things.
-- I’m currently working in JS/Node, Go, Python/Django(REST), React, Angular(Typescript), Nextjs, or whatever else strikes my fancy!
-- I'm open to frontend, backend, or fullstack opportunities. 
+- I’m interested in solving puzzles, and finding new and unexpected ways to do things.
+- I’m currently working in Typescript, React, Tailwind, Node, and DynamoDB, and dabbling in PHP with Laravel, Inertia, and React.
 - I can be reached at kjensen19@gmail.com.
